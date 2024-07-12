@@ -1,0 +1,1 @@
+& "linkiso.bat" $args
